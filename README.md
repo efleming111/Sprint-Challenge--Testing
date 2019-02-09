@@ -30,7 +30,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 1. What is the point of `Test Driven Development`? What do you think about this approach?
 
-    TDD is used so that the code can be well designed. If the purpose of the code is know prior to writing it, we can refactor it to improve it's design. While I see the benefits of TDD, I think that it really depends of the complexity of the code being written and the time to deployment, as to weather or not to use the TDD method.
+    TDD is used so that the code can be well designed. If the purpose of the code is know prior to writing it, we can refactor it to improve it's design. While I see the benefits of TDD, I think that it really depends on the complexity of the code being written and the time to deployment, as to weather or not to use the TDD method.
 
 1. Mention three types of automated tests.
 
